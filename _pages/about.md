@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate from Computer Science and Engineering Department of Washington University in St. Louis. 
+I'm a PhD candidate, co-advised by Professor Xuan (Silvia) Zhang and Professor Roger Chamberlain, within the Computer Science and Engineering Department at Washington University in St. Louis. 
 My research areas include near-memory processing for a variety of applications, high-performance and energy-saving computing on heterogeneous systems, and hardware/software codesign. I graduated from University of Electronic Science and Technology of China in 2015 and 2018 with B.E and M.S. respectively.
 
 You can find my CV here: [Curriculum Vitae](./files/Resume_Chenfeng.pdf).
